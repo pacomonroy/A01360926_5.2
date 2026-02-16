@@ -1,0 +1,4 @@
+TOTAL VENTAS
+------------
+Costo Total: $2,481.86
+Tiempo de ejecución: 0.0004 segundos
